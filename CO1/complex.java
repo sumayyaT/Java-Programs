@@ -22,9 +22,9 @@ public static void main(String[] args)
 Complex c1=new Complex(4,5);
 Complex c2=new Complex(10,4);
 Complex res;
-System.out.println("first complex number is:");
+System.out.println("first complex number is=");
 c1.show();
-System.out.println("second complex number is:");
+System.out.println("second complex number is=");
 c2.show();
 System.out.println("after addition");
 res= C_add(c1,c2);

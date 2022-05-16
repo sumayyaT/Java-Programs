@@ -4,7 +4,7 @@ class Arraysearch {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int i, flag = 0;
-        System.out.println("Enter the array size:");
+        System.out.println("Enter the array size=");
         int size = s.nextInt();
         int[] array = new int[size];
         System.out.println("Enter the array elements:");
